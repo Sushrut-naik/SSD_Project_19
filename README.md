@@ -60,7 +60,7 @@ pip install opencv-python torch torchvision numpy matplotlib roboflow
 Run the Python script for the ML component:
 
 ```bash
-python ml_script.py
+python newtest.py
 ```
 
 ## Contributing
